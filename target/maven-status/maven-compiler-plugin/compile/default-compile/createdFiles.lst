@@ -1,3 +1,10 @@
-com/example/gui_backend/controller/MainViewController.class
-module-info.class
+com/example/gui_backend/controller/view/ManageCategory$1.class
+com/example/gui_backend/controller/view/ManageCategory.class
+com/example/gui_backend/controller/view/ManageProducts.class
+com/example/gui_backend/model/Category.class
+com/example/gui_backend/controller/api/CategoryController$1.class
+com/example/gui_backend/controller/api/CategoryController.class
 com/example/gui_backend/Main.class
+module-info.class
+com/example/gui_backend/controller/view/ManageCategory$1$1.class
+com/example/gui_backend/controller/view/MainViewController.class

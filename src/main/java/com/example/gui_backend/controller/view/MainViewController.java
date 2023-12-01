@@ -1,4 +1,4 @@
-package com.example.gui_backend.controller;
+package com.example.gui_backend.controller.view;
 
 import com.example.gui_backend.Main;
 import javafx.fxml.FXML;
